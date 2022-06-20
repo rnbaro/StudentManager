@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataTable&lt;T&gt;">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAACgAAgAAEAgBIBAIAQAIAI0AAJQgAAgAQAAA=</HashCode>
+      <FileName>DataTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Linkedlist&lt;T&gt;">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADSAABAAAAAAgAAYAAQAJAAgAhQAAAAAAAABCABAAAA=</HashCode>
+      <FileName>LinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node&lt;T&gt;">
+    <Position X="7.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABAAAAAAAAAAAACAAAAAAAAAAAAAAAAEABAA=</HashCode>
+      <FileName>Node.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentManager">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAgAAAAAABAAABAAAAAAAAAAAAAAAAMAgCAAABAIA=</HashCode>
+      <FileName>StudentManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentTable">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgMACAFAAgAAgAQAIAAAAAAEIA0ABAABAAAABAAA=</HashCode>
+      <FileName>StudentTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestCase" Collapsed="true">
+    <Position X="13" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAEAAAAAAAAAAAAEIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TestCase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="StudentData">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAFAAAEBAAAAAABAAA=</HashCode>
+      <FileName>StudentData.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="TData" Collapsed="true">
+    <Position X="13" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>TestCase.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="KEY">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAIAAAgAAIAABAgQABgEACAABBADA=</HashCode>
+      <FileName>StudentManager.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DIRECTION">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAgAAAAAAAAAIQAAAAAAA=</HashCode>
+      <FileName>StudentTable.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
